@@ -1,0 +1,50 @@
+[
+{
+    "question": "Inside which HTML element do we put Javascript?",
+    "choice1": "<javascript>",
+    "choice2": "<img>",
+    "choice3": "<script>",
+    "choice4": "<style>",
+    "answer": 3
+},
+{
+    "question": "What is the corrent syntax?",
+    "choice1": "<script href='xxx.js'>",
+    "choice2": "<script name='xxx.js'>",
+    "choice3": "<script src='xxx.js'>",
+    "choice4": "<script file='xxx.js'>",
+    "answer": 3
+},
+{
+    "question": "How do we write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World')",
+    "choice2": "alertBox('Hello World')",
+    "choice3": "msg('Hello World')",
+    "choice4": "console.log('Hello World')",
+    "answer": 2
+},
+{
+    "question": "Waht is the main color format?",
+    "choice1": "ABC",
+    "choice2": "RPM",
+    "choice3": "RGB",
+    "choice4": "KLM",
+    "answer": 3
+},
+{
+    "question": "Biggest City of Germany?",
+    "choice1": "Frankfurt",
+    "choice2": "Berlin",
+    "choice3": "Stuttgart",
+    "choice4": "Münich",
+    "answer": 4
+},
+{
+    "question": "National Animal Of India",
+    "choice1": "Tiger",
+    "choice2": "Lion",
+    "choice3": "Elephant",
+    "choice4": "Rhino",
+    "answer": 1
+}
+]
